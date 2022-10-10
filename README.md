@@ -1,1 +1,4 @@
-# 123
+# Авторизация
+```
+git config --global user.name " "
+```
